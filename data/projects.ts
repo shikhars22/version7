@@ -28,7 +28,7 @@ export type supplierEvaluationType = {
 export const projects: projectType[] = [
 	{
 		id: "1",
-		name: "Project A",
+		name: "Project C",
 		createdat: "Created 6 days ago",
 		status: "green",
 		cost: "$250.00",
@@ -40,7 +40,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "2",
-		name: "Project A",
+		name: "Project D",
 		createdat: "Created 6 days ago",
 		status: "yellow",
 		cost: "$250.00",
@@ -53,7 +53,7 @@ export const projects: projectType[] = [
 
 	{
 		id: "3",
-		name: "Project A",
+		name: "Project E",
 		createdat: "Created 6 days ago",
 		status: "red",
 		cost: "$250.00",
@@ -65,7 +65,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "4",
-		name: "Project A",
+		name: "Project F",
 		createdat: "Created 6 days ago",
 		status: "green",
 		cost: "$250.00",
@@ -77,7 +77,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "5",
-		name: "Project A",
+		name: "Project G",
 		createdat: "Created 6 days ago",
 		status: "yellow",
 		cost: "$250.00",
@@ -90,7 +90,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "6",
-		name: "Project A",
+		name: "Project H",
 		createdat: "Created 6 days ago",
 		status: "red",
 		cost: "$250.00",
@@ -102,7 +102,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "7",
-		name: "Project A",
+		name: "Project I",
 		createdat: "Created 6 days ago",
 		status: "green",
 		cost: "$250.00",
@@ -114,7 +114,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "8",
-		name: "Project A",
+		name: "Project J",
 		createdat: "Created 6 days ago",
 		status: "yellow",
 		cost: "$250.00",
@@ -127,7 +127,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "9",
-		name: "Project A",
+		name: "Project K",
 		createdat: "Created 6 days ago",
 		status: "red",
 		cost: "$250.00",
@@ -140,7 +140,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "10",
-		name: "Project A",
+		name: "Project L",
 		createdat: "Created 6 days ago",
 		status: "green",
 		cost: "$250.00",
@@ -153,7 +153,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "11",
-		name: "Project A",
+		name: "Project M",
 		createdat: "Created 6 days ago",
 		status: "yellow",
 		cost: "$250.00",
@@ -166,7 +166,7 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "12",
-		name: "Project A",
+		name: "Project N",
 		createdat: "Created 6 days ago",
 		status: "red",
 		cost: "$250.00",
@@ -180,9 +180,9 @@ export const projects: projectType[] = [
 	},
 	{
 		id: "13",
-		name: "Project A",
+		name: "Project O",
 		createdat: "Created 6 days ago",
-		status: "green",
+		status: "red",
 		cost: "$250.00",
 		affected: "Khaitan",
 		part: "08-2682N622-28",

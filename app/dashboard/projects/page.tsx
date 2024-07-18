@@ -340,8 +340,8 @@ const Projects: FC<ProjectsProps> = ({}) => {
 				) : (
 					<div className='grid grid-cols-1 lg:grid-cols-5 gap-4'>
 						<div className='col'>
-							<div className='text-black flex items-center text-[15px] font-[700] mb-4 '>
-								<span className='flex justify-center items-center bg-[#000000] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
+							<div className='text-[#808080] flex items-center text-[15px] font-[700] mb-4 '>
+								<span className='flex justify-center items-center bg-[#808080] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
 									1
 								</span>
 								Initiation
@@ -356,9 +356,9 @@ const Projects: FC<ProjectsProps> = ({}) => {
 						</div>
 
 						<div className='col'>
-							<div className='text-black flex items-center text-[15px] font-[400] gap-20 mb-4'>
+							<div className='text-[#1e90ff] flex items-center text-[15px] font-[400] gap-20 mb-4'>
 								<div className='flex items-center font-[700]'>
-									<span className='flex justify-center items-center bg-[#000000] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
+									<span className='flex justify-center items-center bg-[#1e90ff] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
 										2
 									</span>
 									Planning
@@ -373,9 +373,9 @@ const Projects: FC<ProjectsProps> = ({}) => {
 							/>
 						</div>
 						<div className='col'>
-							<div className='text-[#000000] flex items-center text-[15px] font-[400] gap-20 mb-4'>
+							<div className='text-[#1e90ff] flex items-center text-[15px] font-[400] gap-20 mb-4'>
 								<div className='flex items-center font-[700]'>
-									<span className='flex justify-center items-center bg-[#000000] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
+									<span className='flex justify-center items-center bg-[#1e90ff] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
 										3
 									</span>
 									Execution
@@ -390,9 +390,9 @@ const Projects: FC<ProjectsProps> = ({}) => {
 							/>
 						</div>
 						<div className='col'>
-							<div className='text-[#000000] flex items-center text-[15px] font-[400] gap-20 mb-4'>
+							<div className='text-[#1e90ff] flex items-center text-[15px] font-[400] gap-20 mb-4'>
 								<div className='flex items-center font-[700]'>
-									<span className='flex justify-center items-center bg-[#000000] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
+									<span className='flex justify-center items-center bg-[#1e90ff] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
 										4
 									</span>
 									Control
@@ -407,9 +407,9 @@ const Projects: FC<ProjectsProps> = ({}) => {
 							/>
 						</div>
 						<div className='col'>
-							<div className='text-[#000000] flex items-center text-[15px] font-[400] gap-20 mb-4'>
+							<div className='text-[#1ec31e] flex items-center text-[15px] font-[400] gap-20 mb-4'>
 								<div className='flex items-center font-[700]'>
-									<span className='flex justify-center items-center bg-[#000000] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
+									<span className='flex justify-center items-center bg-[#1ec31e] size-6 rounded-full mr-3 text-white text-[18px] font-[700]'>
 										5
 									</span>
 									Closure
